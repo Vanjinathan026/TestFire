@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T11:38:12Z" name="Suite" finished-at="2023-01-20T11:38:52Z" duration-ms="39664">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T11:38:12Z" name="Test" finished-at="2023-01-20T11:38:52Z" duration-ms="39664">
+      <class name="TestSteps.AssesMent">
+        <test-method is-config="true" signature="toLaunchBrowser(java.lang.String)[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:12Z" name="toLaunchBrowser" finished-at="2023-01-20T11:38:16Z" duration-ms="3536" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://testfire.net/index.jsp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toLaunchBrowser -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:16Z" name="startTime" finished-at="2023-01-20T11:38:16Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="navigatingToSignIn()[pri:1, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:16Z" name="navigatingToSignIn" finished-at="2023-01-20T11:38:16Z" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToSignIn -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:16Z" name="AftreMethod" finished-at="2023-01-20T11:38:16Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:16Z" name="startTime" finished-at="2023-01-20T11:38:16Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="signInWithAnIncorretUsers(java.lang.String, java.lang.String)[pri:2, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:16Z" name="signInWithAnIncorretUsers" finished-at="2023-01-20T11:38:18Z" duration-ms="1727" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo_pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithAnIncorretUsers -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:18Z" name="AftreMethod" finished-at="2023-01-20T11:38:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:18Z" name="startTime" finished-at="2023-01-20T11:38:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="signInWithAnCorretUsers(java.lang.String, java.lang.String)[pri:3, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:18Z" name="signInWithAnCorretUsers" finished-at="2023-01-20T11:38:20Z" duration-ms="1345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithAnCorretUsers -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:20Z" name="AftreMethod" finished-at="2023-01-20T11:38:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="viewSummaryDetails()[pri:4, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:20Z" name="viewSummaryDetails" finished-at="2023-01-20T11:38:20Z" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewSummaryDetails -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:20Z" name="startTime" finished-at="2023-01-20T11:38:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:20Z" name="AftreMethod" finished-at="2023-01-20T11:38:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="accountVerification(java.lang.String)[pri:5, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:20Z" name="accountVerification" finished-at="2023-01-20T11:38:23Z" duration-ms="3376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[800001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountVerification -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:20Z" name="startTime" finished-at="2023-01-20T11:38:20Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:23Z" name="AftreMethod" finished-at="2023-01-20T11:38:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="transferLink()[pri:6, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:23Z" name="transferLink" finished-at="2023-01-20T11:38:24Z" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transferLink -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:23Z" name="startTime" finished-at="2023-01-20T11:38:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:24Z" name="AftreMethod" finished-at="2023-01-20T11:38:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="transferAndValidate(java.lang.String, java.lang.String)[pri:7, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:24Z" name="transferAndValidate" finished-at="2023-01-20T11:38:26Z" duration-ms="1221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[800001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9876]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transferAndValidate -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:24Z" name="startTime" finished-at="2023-01-20T11:38:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:26Z" name="AftreMethod" finished-at="2023-01-20T11:38:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="viewRecentTransctions()[pri:8, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:26Z" name="viewRecentTransctions" finished-at="2023-01-20T11:38:29Z" duration-ms="3705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewRecentTransctions -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:26Z" name="startTime" finished-at="2023-01-20T11:38:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:29Z" name="AftreMethod" finished-at="2023-01-20T11:38:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:29Z" name="startTime" finished-at="2023-01-20T11:38:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="viewFirstTwoTransction()[pri:9, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:29Z" name="viewFirstTwoTransction" finished-at="2023-01-20T11:38:48Z" duration-ms="18622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewFirstTwoTransction -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:48Z" name="AftreMethod" finished-at="2023-01-20T11:38:48Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="contactUs()[pri:10, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:48Z" name="contactUs" finished-at="2023-01-20T11:38:49Z" duration-ms="1292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:48Z" name="startTime" finished-at="2023-01-20T11:38:48Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:49Z" name="AftreMethod" finished-at="2023-01-20T11:38:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:49Z" name="startTime" finished-at="2023-01-20T11:38:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="fillEmailForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:11, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:49Z" name="fillEmailForm" finished-at="2023-01-20T11:38:50Z" duration-ms="1278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[subject added]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Comment Added]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillEmailForm -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:50Z" name="AftreMethod" finished-at="2023-01-20T11:38:50Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method signature="signOut()[pri:12, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:50Z" name="signOut" finished-at="2023-01-20T11:38:51Z" duration-ms="1067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:50Z" name="startTime" finished-at="2023-01-20T11:38:50Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="AftreMethod()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:51Z" name="AftreMethod" finished-at="2023-01-20T11:38:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftreMethod -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestSteps.AssesMent@4196c360]" started-at="2023-01-20T11:38:51Z" name="CloseBrowser" finished-at="2023-01-20T11:38:52Z" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestSteps.AssesMent -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
